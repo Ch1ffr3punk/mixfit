@@ -17,7 +17,7 @@ Subject: Hello Bob
 
 Hi Alice,  
 
-I arrived at my hotel yesterday at 21:00 PM.  
+I arrived at my hotel yesterday 21:00 PM.  
 See you next week.  
 
 Best regards  
