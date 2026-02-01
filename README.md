@@ -10,13 +10,15 @@ Mixfit has only one parameter for creating payloads
 and is ideal for sending them with [Mini Mailer](https://github.com/Ch1ffr3punk/mmg), [Nym  
 Mailer](https://github.com/Ch1ffr3punk/NymMailer), or any web mailer.  
 
-Mixfit looks in the current directory for pubring.mix and mlist2.txt.  
+Mixfit looks in the current directory for pubring.mix and mlist2.txt.
+Maximum message size is 17920 bytes.
 
 ```
 $ mixfit -h  
-Usage: mixfit -l remailer1,remailer2... < message.txt > outfile.txt  
--l string  
-Remailer chain (*,*,*... up to 10)  
+Usage: mixfit -l remailer1,remailer2... < message.txt > outfile.txt
+  
+  -l string  
+        Remailer chain (*,*,*... up to 10)  
 ```
 
 If you like Mixfit consider to buy me a coffee.
