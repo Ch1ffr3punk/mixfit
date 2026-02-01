@@ -13,7 +13,7 @@ Mailer](https://github.com/Ch1ffr3punk/NymMailer), or any web mailer.
 Example message.txt:  
 
 To: alice@example.org  
-Subject: Hello Bob  
+Subject: Hello Alice   
 
 Hi Alice,  
 
