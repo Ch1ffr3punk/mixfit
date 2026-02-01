@@ -23,6 +23,14 @@ See you next week.
 Best regards  
 Bob  
 
+After that you simply run mixfit to create the YAMN payload   
+and copy the payload in the message body of your email.    
+
+The Subject: line can be empty and copy the first   remailer  
+address, from mixfit screen output, into the To: field.  
+
+That's all!  
+
 Mixfit looks in the current directory for pubring.mix and mlist2.txt.  
 You will have to update the two files manually on a daily basis.  
 Maximum message size is 17920 bytes.
