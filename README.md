@@ -15,4 +15,8 @@ Usage: mixfit -l remailer1,remailer2... < message.txt > outfile.txt
 -l string  
 Remailer chain (,,*... up to 10)  
 
+If you like Mixfit consider to buy me a coffee.
+
+<a href="https://www.buymeacoffee.com/Ch1ffr3punk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 Mixfit is dedicated to Alice and Bob.  
