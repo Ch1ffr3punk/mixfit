@@ -1,0 +1,35 @@
+Stats-Version: 2.0
+Generated: Sat 31 Jan 2026 15:30:07 GMT
+Mixmaster    Latent-Hist   Latent  Uptime-Hist   Uptime  Options
+------------------------------------------------------------------------
+yamn3        001001000100    :17   ++++++++++++  100.0%                 
+victor       111111111111    :33   ++++++++++++  100.0%  D              
+paranoyamn   111122221111    :51   ++++++++++++  100.0%                 
+middleman    122211121221   1:01   ++++++++++++  100.0%  D              
+yamn2        000000000000    :16   +++++++++++9  100.0%                 
+yeahno       111111111111    :47   +++++++++++9  100.0%  D              
+yamn         010000000000    :16   +++++++++++9  100.0%                 
+dirge        000000000000    :16   +++++++++++9   99.9%                 
+frell        111111212222    :57   +++++++++++9   99.8%                 
+yamn4        111111111111    :43   +++++++++++9   99.7%  D              
+
+Broken type-I remailer chains:
+
+
+Broken type-II remailer chains:
+
+
+
+
+Remailer-Capabilities:
+
+$remailer{"dirge"} = "<yamn@dirge.harmsk.com> v2";
+$remailer{"frell"} = "<nyam@remailer.frell.eu.org> v2";
+$remailer{"middleman"} = "<yamn@middleman.remailer.online> middle v2";
+$remailer{"paranoyamn"} = "<yamn@yamn.paranoici.org> v2";
+$remailer{"victor"} = "<yamn@virebent.art> middle v2";
+$remailer{"yamn"} = "<yamn@mixmin.net> v2";
+$remailer{"yamn2"} = "<yamn2@mixmin.net> v2";
+$remailer{"yamn3"} = "<yamn3@mixmin.net> v2";
+$remailer{"yamn4"} = "<yamn4@mixmin.net> middle v2";
+$remailer{"yeahno"} = "<yamn@yeahno.net> middle v2";
