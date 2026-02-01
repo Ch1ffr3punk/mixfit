@@ -32,7 +32,7 @@ address, from mixfit screen output, into the To: field.
 That's all!  
 
 Mixfit looks in the current directory for pubring.mix and mlist2.txt.  
-You will have to update the two files manually on a daily basis.  
+You will have to update these two files manually on a daily basis.  
 Maximum message size is 17920 bytes.
 
 ```
