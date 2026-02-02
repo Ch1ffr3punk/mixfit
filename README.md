@@ -32,16 +32,34 @@ address, from mixfit screen output, into the To: field.
 That's all!  
 
 Mixfit looks in the current directory for pubring.mix and mlist2.txt.  
-You will have to update these two files manually on a daily basis.  
-Maximum message size is 17920 bytes.
+You will have to update these two files manually on a daily basis. 
 
+The URLs for the required pinger services are:
 ```
+Dirge
+https://www.harmsk.com/yamn/pubring.mix
+https://www.harmsk.com/yamn/mlist2.txt
+
+Frell
+http://echolot.theremailer.net/yamn/pubring.mix
+http://echolot.theremailer.net/yamn/mlist2.txt
+
+Mixmin
+https://www.mixmin.net/yamn/pubring.mix
+https://www.mixmin.net/yamn/mlist2.txt
+
+Victor
+https://echolot.virebent.art/pubring.mix
+https://echolot.virebent.art/mlist2.txt
+
+
 $ mixfit -h  
 Usage: mixfit -l remailer1,remailer2... < message.txt > outfile.txt
   
   -l string  
         Remailer chain (*,*,*... up to 10)  
 ```
+Maximum message size is 17920 bytes.
 
 If you like Mixfit consider to buy me a coffee.
 
